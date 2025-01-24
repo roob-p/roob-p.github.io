@@ -3,4 +3,8 @@
 	url = https://github.com/roob-p/Autocategories-PlayniteExtension.git
 [submodule "CoverStyleSwitcher-PlayniteExtension"]
 	path = CoverStyleSwitcher-PlayniteExtension
+<<<<<<< HEAD
 	url = https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension.git
+=======
+	url = https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension.git
+>>>>>>> 90abeebb03721116a5d64606fb5e38f7dba1bc2c
