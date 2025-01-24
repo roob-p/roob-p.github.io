@@ -1,3 +1,6 @@
-[submodule "Autocategories-PlayniteExtension"]
+[submodule "AutoCategories-PlayniteExtension"]
 	path = Autocategories-PlayniteExtension
 	url = https://github.com/roob-p/Autocategories-PlayniteExtension.git
+[submodule "CoverStyleSwitcher-PlayniteExtension"]
+	path = CoverStyleSwitcher-PlayniteExtension
+	url = https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension.git
