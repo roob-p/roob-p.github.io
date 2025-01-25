@@ -2,5 +2,5 @@
 On this page you'll find my projects, tools, and Playnite Extension: 
 
 ## Playnite Extension:
-- [Autocategories Playnite Extension](./Autocategories-PlayniteExtension/)
-- [Cover Style Switcher Playnite Extension](./CoverStyleSwitcher-PlayniteExtension/)
+- [AutoCategories Playnite Extension](https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/)
+- [CoverStyleSwitcher Playnite Extension]((https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension))
