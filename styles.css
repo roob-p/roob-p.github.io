@@ -1,8 +1,0 @@
-.highlight {
-    font-size: 1.5em;   /* Aumenta la dimensione del testo */
-    font-weight: bold;  /* Rende il testo in grassetto */
-    color: #FF5733;     /* Cambia il colore del testo, ad esempio un arancione acceso */
-    background-color: #F1F1F1; /* Aggiunge uno sfondo chiaro */
-    padding: 0.2em 0.5em; /* Aggiunge del padding intorno al testo */
-    border-radius: 5px; /* Rende gli angoli del background arrotondati */
-}
