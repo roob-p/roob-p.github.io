@@ -8,4 +8,4 @@ On this page you'll find my projects, tools, and Playnite Extensions.
    
 <br> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
-&copy; 2025 roob-p. All rights reserved
+&copy; 2025 roob-p. All rights reserved.
