@@ -1,14 +1,14 @@
-# Welcome!💣
+# Welcome!✨
 
 On this page you'll find my projects, softwares, tools, and Playnite Extensions.  
-Check them out below! 🎮🛠️  
+Check them out below! 🎮🛠️💻 
 
 ---
 
 ## 🧩 Playnite Extensions
-- 🎯 [AutoCategories](https://roob-p.github.io/AutoCategories-PlayniteExtension/)
-- 🎨 [CoverStyleSwitcher](https://roob-p.github.io/CoverStyleSwitcher-PlayniteExtension/)
-- 🚀 [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
+- 📅 [AutoCategories](https://roob-p.github.io/AutoCategories-PlayniteExtension/)
+- 💿 [CoverStyleSwitcher](https://roob-p.github.io/CoverStyleSwitcher-PlayniteExtension/)
+- ⚡ [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
 
 ---
 
