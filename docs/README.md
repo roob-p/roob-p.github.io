@@ -13,7 +13,7 @@ Check them out below! 🎮🛠️
 ---
 
 ## 💻 Software
-- ⚙️ [SkipUacTaskCreator](https://roob-p.github.io/SkipUacTaskCreator/)
+- 🚀 [SkipUacTaskCreator](https://roob-p.github.io/SkipUacTaskCreator/)
 
 ---
 
