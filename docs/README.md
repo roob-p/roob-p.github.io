@@ -7,7 +7,7 @@ Check them out below! 🎮🛠️💻
 
 ## 🧩 Playnite Extensions
 - 📅 [AutoCategories](https://roob-p.github.io/AutoCategories-PlayniteExtension/)
-- 💿 [CoverStyleSwitcher](https://roob-p.github.io/CoverStyleSwitcher-PlayniteExtension/)
+- 🎨 [CoverStyleSwitcher](https://roob-p.github.io/CoverStyleSwitcher-PlayniteExtension/)
 - ⚡ [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
 
 ---
