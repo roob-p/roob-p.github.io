@@ -13,7 +13,7 @@ Check them out below! 🎮🛠️💻
 
 ---
 
-## Utility:
+## 🛠️ Utility:
 - 🚀 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
 
 ## 💻 Software:
