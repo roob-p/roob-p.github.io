@@ -20,7 +20,7 @@ Check them out below! 🎮🛠️💻
 - 🚀 [SkipUacTaskCreator](https://roob-p.github.io/SkipUacTaskCreator/)
 
 ━━━━━━━━━━━
-### 📫 *Find me:*
+### 📫 Find me:
 
 - 🐙 **Github Profile:** [**github.com/roob-p**](https://github.com/roob-p)
   
