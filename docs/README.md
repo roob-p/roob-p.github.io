@@ -10,6 +10,7 @@ Check them out below! 🎮🛠️💻
 - 📀 [CoverStyleSwitcher](https://roob-p.github.io/CoverStyleSwitcher-PlayniteExtension/)
 - 🛡️ [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
 - 🖼️ [CoverChange](https://roob-p.github.io/CoverChange-PlayniteExtension/)
+- 🎮 [GamepadDesktop](https://roob-p.github.io/GamepadDestkop-PlayniteExtension/)
 
 ---
 
