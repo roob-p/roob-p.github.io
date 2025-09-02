@@ -22,6 +22,6 @@ Check them out below! 🎮🛠️💻
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roobp)  
 &nbsp;  
 &copy; 2025 **roob-p** — All rights reserved.
