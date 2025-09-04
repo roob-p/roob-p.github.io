@@ -1,7 +1,7 @@
 # Welcome! ⚡ 
 
 On this page you'll find my projects, softwares, tools, and Playnite Extensions.  
-Check them out below! 🎮🛠️💻  
+Check them out below! 🎮🛠💻  
 
 ---
 
