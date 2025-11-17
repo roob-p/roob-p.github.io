@@ -1,6 +1,6 @@
 # Welcome! ⚡  
 
-On this page you'll find my projects, softwares, tools, and Playnite Extensions.  
+On this page you'll find my projects, utilities and Playnite Extensions.  
 Check them out below! 🎮💻  
 
 ---
@@ -15,8 +15,8 @@ Check them out below! 🎮💻
 ---
 
 ## 💻 Utility:
-- ✨ [Super Admin Launcher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
-- 🔄 [Sunshine Capture Switcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
+- ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
+- 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
 - 🚀 [SkipUacTaskCreator (SUTOCC)](https://roob-p.github.io/SkipUacTaskCreator/)
 
 ━━━━━━━━━━━
