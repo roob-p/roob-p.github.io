@@ -17,7 +17,7 @@ Check them out below! 🎮💻
 ## 💻 Utility:
 - ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
 - 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
-- 🚀 [SkipUacTaskCreator](https://roob-p.github.io/SkipUacTaskCreator/)
+- 🚀 [SkipUacTaskCreator (SUTOCC)](https://roob-p.github.io/SkipUacTaskCreator/)
 
 
 ---
