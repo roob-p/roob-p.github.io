@@ -1,4 +1,4 @@
-# Welcome! ⚡  
+# Welcome! ⚡   
 
 On this page you'll find my projects, utilities and Playnite Extensions.  
 Check them out below! 🎮💻  
