@@ -6,7 +6,7 @@ Check them out below! 🎮💻
 ---
 
 ## 🧩 Playnite Extensions
-- 🏷️ [QuickPlatformCategories](https://roob-p.github.io/AutoCategories-PlayniteExtension/)
+- 🏷️ [QuickPlatformCategories](https://roob-p.github.io/QuickPlatformCategories-PlayniteExtension/)
 - 🎨 [CoverStyleSwitcher](https://roob-p.github.io/CoverStyleSwitcher-PlayniteExtension/)
 - 🛡️ [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
 - 📀 [CoverChange](https://roob-p.github.io/CoverChange-PlayniteExtension/)
