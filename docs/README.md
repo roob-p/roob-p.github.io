@@ -11,6 +11,7 @@ Check them out below! 🎮💻
 - 🛡️ [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
 - 📀 [CoverChange](https://roob-p.github.io/CoverChange-PlayniteExtension/)
 - 🎮 [GamepadDesktop](https://roob-p.github.io/GamepadDesktop-PlayniteExtension/)
+- 🕹️ [GamepadToKeyboard](https://roob-p.github.io/GamepadToKeyboard-PlayniteExtension/)
 
 ---
 
