@@ -1,4 +1,4 @@
-# Welcome! ⚡   
+# Welcome! ⚡    
 
 On this page you'll find my projects, utilities and Playnite Extensions.  
 Check them out below! 🎮💻  
@@ -11,17 +11,22 @@ Check them out below! 🎮💻
 - 🛡️ [SkipUacTask](https://roob-p.github.io/SkipUacTask-PlayniteExtension/)
 - 📀 [CoverChange](https://roob-p.github.io/CoverChange-PlayniteExtension/)
 - 🎮 [GamepadDesktop](https://roob-p.github.io/GamepadDesktop-PlayniteExtension/)
+- 🕹️ [GamepadToKeyboard](https://roob-p.github.io/GamepadToKeyboard-PlayniteExtension/)
 
 ---
 
 ## 💻 Utilities:
-- ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
 - 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
+- 🕹️ [GamepadToKeyboard](https://roob-p.github.io/GamepadToKeyboard)
 - 🚀 [SkipUacTaskCreator (SUTOCC)](https://roob-p.github.io/SkipUacTaskCreator/)
+- ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
 
 
----
+━━━━━━━━━━━
+### 📫 Find me:
 
+- 🐙 **Github Profile:** [**github.com/roob-p**](https://github.com/roob-p)
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roobp)  
 &nbsp;  
-&copy; 2025 **roob-p** — All rights reserved.
+&copy; *2025* ***roob-p*** *All rights reserved.*
