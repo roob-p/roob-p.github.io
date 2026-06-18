@@ -16,8 +16,8 @@ Check them out below! 🎮💻
 ---
 
 ## 💻 Utilities:
-- 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
 - 🕹️ [Joynix](https://roob-p.github.io/Joynix)
+- 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
 - 🚀 [SkipUacTaskCreator (SUTOCC)](https://roob-p.github.io/SkipUacTaskCreator/)
 - ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
 
