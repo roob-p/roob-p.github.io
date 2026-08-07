@@ -16,7 +16,7 @@ Check them out below! 🎮💻
 ---
 
 ## 💻 Utilities:
-- 🕹️ [Joynix](https://roob-p.github.io/Joynix)
+- 🕹️ [GamepadToKeyboard](https://roob-p.github.io/GamepadToKeyboard)
 - 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
 - 🚀 [SkipUacTaskCreator (SUTOCC)](https://roob-p.github.io/SkipUacTaskCreator/)
 - ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
