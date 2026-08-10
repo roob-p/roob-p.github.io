@@ -19,7 +19,7 @@ Check them out below! 🎮💻
 - 🕹️ [GamepadToKeyboard](https://roob-p.github.io/GamepadToKeyboard)
 - 🔄 [SunshineCaptureSwitcher](https://roob-p.github.io/SunshineCaptureSwitcher/)
 - 🚀 [SkipUacTaskCreator (SUTOCC)](https://roob-p.github.io/SkipUacTaskCreator/)
-- ✨ [SuperAdminLauncher (SAL)](https://roob-p.github.io/SuperAdminLauncher/)
+- ✨ [Elevated Launcher](https://roob-p.github.io/ElevatedLauncher/)
 
 
 ━━━━━━━━━━━
